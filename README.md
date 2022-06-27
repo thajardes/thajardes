@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil :wave:
 
-:woman_student: Eu sou a Thamara, advogada em transição de carreira e atual estudante de Tecnologia da Informação.
+:woman_student: Eu sou a Thamara, advogada em transição de carreira e estudante de Tecnologia da Informação.
 
  :computer:Tenho conduzido meus estudos com foco em front-end e atualmente tenho estudado HTML, CSS e JavaScript.
  
